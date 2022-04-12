@@ -1,6 +1,20 @@
 {
     "name": "ryanoun/serpapi",
+    "description": "PHP SDK for SerpApi",
+    "keywords": ["PHP","SERPAPI","SDK"],
+    "homepage": "https://github.com/ryanoun/serpapi",
     "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Tareq Mahmood",
+            "email": "tareqtms@yahoo.com"
+        },
+        {
+            "name": "Ryan Oun",
+            "email": "ryanoun14@gmail.com"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Endless\\SerpApi\\": "lib/"
