@@ -2,3 +2,5 @@ vendor
 /nbproject/private/
 .idea/
 test.php
+.phpunit.result.cache
+composer.lock
