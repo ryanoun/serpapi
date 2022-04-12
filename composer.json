@@ -1,0 +1,17 @@
+{
+    "name": "ryanoun/serpapi",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Endless\\SerpApi\\": "lib/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Endless\\SerpApi\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
